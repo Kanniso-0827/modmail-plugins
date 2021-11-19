@@ -23,7 +23,7 @@ import discord, random, wikipedia, os
 from discord.ext import commands
 from chatbot import Chat, register_call
 
-_chatbotai_channel_id = 761306707313295391
+_chatbotai_channel_id = 900214937383731233
 _confused = [
             "I don't know about ",
             "I don't understand what you mean by ",
