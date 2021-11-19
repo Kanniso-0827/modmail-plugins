@@ -321,7 +321,7 @@ class PostPlugin(commands.Cog):
         messageedit: int,
     ):
         """
-        Edit an existen bot messagge with an interactive session to create post
+        Edit an existing bot messagge with an interactive session to create post
         Add the role in the command if you want to enable mentions
 
         **Example:**
