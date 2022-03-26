@@ -29,7 +29,7 @@ class Hug(Cog):
         # self.db = bot.plugin_db.get_partition(self)
 
     @commands.command(name="hug", aliases=["huh"])
-    async def _gaytime(self, ctx):
+    async def _huh(self, ctx):
         """
         Hug Gifs
         """
